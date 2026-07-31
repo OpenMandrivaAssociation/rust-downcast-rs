@@ -5,8 +5,8 @@
 %global crate downcast-rs
 
 Name:           rust-%{crate}
-Version:        1.1.1
-Release:        2%{?dist}
+Version:        2.0.2
+Release:        1%{?dist}
 Summary:        Trait object downcasting support using only safe Rust
 
 # Upstream license specification: MIT/Apache-2.0
